@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 - [More on Telegram](https://t.me/AbirHasan2005/3)
 
-<p align="left"> <a href="https://github.com/rajeshsaini2115"><img src="https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
+<p align="left"> <a href="https://github.com/rajeshsaini2115"><img src="https://komarev.com/ghpvc/?username=rajeshsaini2115&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshsaini2115" /></a> </p>
 
 <details>
 
